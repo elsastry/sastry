@@ -1,2 +1,2 @@
-# medsoft-test Sastry EL
-A MedSoft Test Project
+# Sastry EL
+My Projects
